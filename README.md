@@ -1,0 +1,2 @@
+# CoinGameDemo
+Basic game logic
